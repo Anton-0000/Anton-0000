@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anton-0000
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning web design
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning cybersecurity
+- 💞️ I’m looking to collaborate on video game design
 - 📫 How to reach me email duongant000@esd401.org
 
 <!---
